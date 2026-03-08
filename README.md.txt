@@ -36,9 +36,9 @@ Below are example images of the prototype hardware. Place your prototype photos 
 
 ## Demonstration Video
 
-[![Watch the demo](https://img.youtube.com/vi/Kw_Jyvw40fI/0.jpg)](https://youtu.be/Kw_Jyvw40fI)
+📺 **Watch the demo:** [https://youtu.be/Kw_Jyvw40fI](https://youtu.be/Kw_Jyvw40fI)
 
-*Click the image above to watch the demo video on YouTube*
+*The video is hosted on YouTube. No local copy is included.*
 
 ---
 
@@ -235,7 +235,7 @@ Exemplo de imagens do protótipo. Coloque suas fotos dentro da pasta **prototype
 
 ## Vídeo de Demonstração
 
-- **YouTube**: [Vídeo de Demonstração](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)
+📺 **Assista à demonstração:** [https://youtu.be/Kw_Jyvw40fI](https://youtu.be/Kw_Jyvw40fI)
 
 > O vídeo está hospedado no YouTube. Nenhuma cópia local é incluída.
 
