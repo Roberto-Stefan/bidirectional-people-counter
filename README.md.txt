@@ -36,11 +36,7 @@ Below are example images of the prototype hardware. Place your prototype photos 
 
 ## Demonstration Video
 
-Project demonstration video:
-
-[![Project Demo](https://img.youtube.com/vi/Kw_Jyvw40fI/hqdefault.jpg)](https://www.youtube.com/watch?v=Kw_Jyvw40fI)
-
-Click the image above to watch the demonstration video on YouTube.
+[![Project Demo](https://img.youtube.com/vi/Kw_Jyvw40fI/0.jpg)](https://www.youtube.com/watch?v=Kw_Jyvw40fI)
 
 ---
 
