@@ -338,9 +338,3 @@ people-counter-arduino/
 * Monitoramento de acesso  
 * Automação predial
 
-## TESTE SIMPLES
-[Clique aqui](https://youtu.be/Kw_Jyvw40fI)
-
-https://youtu.be/Kw_Jyvw40fI
-
-<a href="https://youtu.be/Kw_Jyvw40fI">Teste HTML</a>
