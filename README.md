@@ -23,15 +23,6 @@ This project was developed as part of an **academic study for an Embedded System
 
 Below are example images of the prototype hardware. Place your prototype photos inside the **prototype** folder.
 
-![5 People Back Entrance](prototype/5_people_back.jpg)  
-![5 People Front Door Entrance](prototype/5_people_front.jpg)  
-![Exit 4 People Back Door](prototype/exit_4_back.jpg)  
-![Exit 6 People Front Door](prototype/exit_6_front.jpg)  
-![LED Off](prototype/led_off.jpg)  
-![On Hold](prototype/on_hold.jpg)  
-![Reset](prototype/reset.jpg)  
-![7 People Entered](prototype/7_people_entered.jpg)  
-
 ---
 
 ## Demonstration Video
@@ -223,15 +214,6 @@ O número de pessoas é exibido em **dois displays de 7 segmentos multiplexados*
 ## Protótipo
 
 Exemplo de imagens do protótipo. Coloque suas fotos dentro da pasta **prototype**.
-
-![Entrada Porta de Trás](prototype/5_people_back.jpg)  
-![Entrada Porta da Frente](prototype/5_people_front.jpg)  
-![Saída 4 Pessoas Porta de Trás](prototype/exit_4_back.jpg)  
-![Saída 6 Pessoas Porta da Frente](prototype/exit_6_front.jpg)  
-![LED Desligado](prototype/led_off.jpg)  
-![Em Espera](prototype/on_hold.jpg)  
-![Reset](prototype/reset.jpg)  
-![Entraram 7 Pessoas](prototype/7_people_entered.jpg)
 
 ---
 
