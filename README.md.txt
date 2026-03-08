@@ -36,11 +36,9 @@ Below are example images of the prototype hardware. Place your prototype photos 
 
 ## Demonstration Video
 
-Project demonstration video:
+📺 **Watch the demo:** [https://youtu.be/Kw_Jyvw40fI](https://youtu.be/Kw_Jyvw40fI)
 
-- **YouTube link**: [Demo Video](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)
-
-> The video is hosted on YouTube. No local copy is included.
+*The video is hosted on YouTube. No local copy is included.*
 
 ---
 
@@ -237,7 +235,7 @@ Exemplo de imagens do protótipo. Coloque suas fotos dentro da pasta **prototype
 
 ## Vídeo de Demonstração
 
-- **YouTube**: [Vídeo de Demonstração](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)
+📺 **Assista à demonstração:** [https://youtu.be/Kw_Jyvw40fI](https://youtu.be/Kw_Jyvw40fI)
 
 > O vídeo está hospedado no YouTube. Nenhuma cópia local é incluída.
 
@@ -339,3 +337,4 @@ people-counter-arduino/
 * Sistemas de iluminação inteligente  
 * Monitoramento de acesso  
 * Automação predial
+
