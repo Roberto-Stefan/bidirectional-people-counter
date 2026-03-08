@@ -4,22 +4,17 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 
 ---
 
-# 🇺🇸 English Version
+## 🇺🇸 English Version
 
-## Overview
+**Overview:** Bidirectional people counting system for closed environments with front and back entrances. Real-time display using multiplexed 7-segment displays, LED occupancy indicator, and reset button.
 
-- **Bidirectional detection**: Counts people entering and leaving.  
-- **Real-time display**: Two multiplexed 7-segment displays.  
-- **LED occupancy indicator**: LED turns on when at least one person is inside.  
-- **Reset function**: Button resets counter to zero.  
-
-**Prototype images**: see `prototype/` folder  
-**Demo video**: [YouTube Link](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)  
-**Project presentation**: `project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx`
+**Prototype images:** see `prototype/` folder  
+**Demo video:** [YouTube Link](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)  
+**Project presentation:** `project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx`
 
 ---
 
-## System Features
+### System Features
 
 * Bidirectional people detection  
 * Entry and exit monitoring  
@@ -31,7 +26,7 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 
 ---
 
-## Hardware Components
+### Hardware Components
 
 * Arduino Uno  
 * 2 × Seven Segment Displays  
@@ -44,9 +39,9 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 
 ---
 
-## Pin Configuration
+### Pin Configuration
 
-### Seven Segment Displays
+**Seven Segment Displays**
 
 | Segment | Arduino Pin |
 | ------- | ----------- |
@@ -58,14 +53,14 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 | f       | 6           |
 | g       | 5           |
 
-### Display Control
+**Display Control**
 
 | Display   | Function | Arduino Pin |
 | --------- | -------- | ----------- |
 | Display 1 | Units    | 9           |
 | Display 2 | Tens     | 11          |
 
-### Sensors
+**Sensors**
 
 | Door       | Sensor     | Arduino Pin |
 | ---------- | ---------- | ----------- |
@@ -74,7 +69,7 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 | Back       | External   | A4          |
 | Back       | Internal (LDR) | A1       |
 
-### LED Indicator & Reset Button
+**LED & Reset Button**
 
 | Component    | Arduino Pin |
 | ------------ | ----------- |
@@ -83,35 +78,68 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 
 ---
 
-## System Operation
+### System Operation
 
 **Entry Detection:** External → Internal → Increment counter  
 **Exit Detection:** Internal → External → Decrement counter  
 
 *Implemented with a state machine algorithm in firmware.*
 
-**Display Operation:** Shows 0–99 people.  
-**Occupancy Indicator:** LED OFF → empty, LED ON → at least one person present.  
-**Reset:** Press button → counter resets to zero, LED blinks.
+**Display Operation:** Shows 0–99 people  
+**Occupancy Indicator:** LED OFF → empty, LED ON → at least one person  
+**Reset:** Press button → counter resets to zero, LED blinks
 
 ---
 
-# 🇧🇷 Versão em Português
+## 🇧🇷 Versão em Português
 
-## Visão Geral
+**Visão Geral:** Sistema de contagem bidirecional de pessoas para ambientes fechados com portas da frente e dos fundos. Exibição em tempo real em displays de 7 segmentos, LED indicador de ocupação e botão de reset.
 
-- **Detecção bidirecional**: Conta pessoas entrando e saindo.  
-- **Exibição em tempo real**: Dois displays de 7 segmentos multiplexados.  
-- **Indicador LED**: LED acende quando há pelo menos uma pessoa presente.  
-- **Função Reset**: Botão reinicia o contador para zero.  
-
-**Imagens do protótipo**: ver pasta `prototype/`  
-**Vídeo de demonstração**: [YouTube Link](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)  
-**Apresentação do projeto**: `project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx`
+**Imagens do protótipo:** ver pasta `prototype/`  
+**Vídeo de demonstração:** [YouTube Link](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)  
+**Apresentação do projeto:** `project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx`
 
 ---
 
-## Estrutura do Projeto
+### Características do Sistema
+
+* Detecção bidirecional de pessoas  
+* Monitoramento de entrada e saída  
+* Contagem em tempo real (0–99)  
+* Controle de displays de 7 segmentos multiplexados  
+* LED indicador de ocupação  
+* Botão de reset manual  
+* Detecção de direção baseada na sequência de sensores  
+
+---
+
+### Componentes de Hardware
+
+* Arduino Uno  
+* 2 × Displays de 7 segmentos  
+* 3 × Sensores infravermelhos  
+* 1 × LDR  
+* 2 × Transistores NPN (BC547) para multiplexação  
+* 1 × LED indicador  
+* 1 × Botão de reset  
+* Resistores, protoboard, jumpers  
+
+---
+
+### Funcionamento do Sistema
+
+**Entrada:** Sensor externo → Sensor interno → Incrementa contador  
+**Saída:** Sensor interno → Sensor externo → Decrementa contador  
+
+*Implementado com máquina de estados no firmware.*
+
+**Displays:** Mostram 0–99 pessoas  
+**Indicador LED:** LED DESLIGADO → sala vazia, LED LIGADO → pelo menos uma pessoa  
+**Reset:** Pressionar botão → contador reinicia, LED pisca
+
+---
+
+### Estrutura do Projeto
 
 people-counter-arduino/
 │
@@ -126,7 +154,7 @@ people-counter-arduino/
 
 ---
 
-## Possíveis Aplicações / Possible Applications
+### Possíveis Aplicações / Possible Applications
 
 * Monitoramento de salas / Smart room monitoring  
 * Controle de fluxo de pessoas / Building occupancy control  
