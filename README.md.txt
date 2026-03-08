@@ -36,11 +36,11 @@ Below are example images of the prototype hardware. Place your prototype photos 
 
 ## Demonstration Video
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=Kw_Jyvw40fI">
-<img src="https://img.youtube.com/vi/Kw_Jyvw40fI/0.jpg" width="600">
-</a>
-</p>
+Project demonstration video:
+
+- **YouTube link**: [Demo Video](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)
+
+> The video is hosted on YouTube. No local copy is included.
 
 ---
 
