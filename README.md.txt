@@ -38,9 +38,9 @@ Below are example images of the prototype hardware. Place your prototype photos 
 
 Project demonstration video:
 
-- **YouTube link**: [Demo Video](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)
+- **[![Watch the demo](https://img.youtube.com/vi/Kw_Jyvw40fI/0.jpg)](https://www.youtube.com/watch?v=Kw_Jyvw40fI)
 
-> The video is hosted on YouTube. No local copy is included.
+> Click the image above to watch the demonstration video on YouTube.
 
 ---
 
