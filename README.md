@@ -1,7 +1,10 @@
 # Bidirectional People Counter – Arduino
 
 Este projeto implementa um **sistema de contagem bidirecional de pessoas** para ambientes fechados com duas entradas, utilizando **sensores infravermelhos** e displays de 7 segmentos multiplexados. O sistema detecta entradas e saídas em tempo real e exibe o número de pessoas presentes.
-
+![Platform](https://img.shields.io/badge/platform-Arduino-blue)
+![Language](https://img.shields.io/badge/language-C++-orange)
+![Status](https://img.shields.io/badge/status-Prototype-yellow)
+![Purpose](https://img.shields.io/badge/purpose-Educational-lightgrey)
 ---
 
 ## 🇺🇸 English Version
