@@ -9,7 +9,7 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 **Overview:** Bidirectional people counting system for closed environments with front and back entrances. Real-time display using multiplexed 7-segment displays, LED occupancy indicator, and reset button.
 
 **Prototype images:** see `prototype/` folder  
-**Demo video:** [YouTube Link](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)  
+**Demo video:** [YouTube Link](https://www.youtube.com/watch?v=mXwFLK2ADg8)  
 **Project presentation:** `project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx`
 
 ---
@@ -96,7 +96,7 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 **Visão Geral:** Sistema de contagem bidirecional de pessoas para ambientes fechados com portas da frente e dos fundos. Exibição em tempo real em displays de 7 segmentos, LED indicador de ocupação e botão de reset.
 
 **Imagens do protótipo:** ver pasta `prototype/`  
-**Vídeo de demonstração:** [YouTube Link](https://www.youtube.com/watch?v=Kw_Jyvw40fI&t=13s)  
+**Vídeo de demonstração:** [YouTube Link](https://www.youtube.com/watch?v=mXwFLK2ADg8)  
 **Apresentação do projeto:** `project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx`
 
 ---
