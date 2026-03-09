@@ -115,6 +115,7 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
   <img src="prototype/reset.jpg" width="250">
 </p>
 
+
 **Vídeo de demonstração:** [YouTube Link](https://www.youtube.com/watch?v=mXwFLK2ADg8)  
 **Apresentação do projeto:** `project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx`
 
