@@ -95,7 +95,26 @@ Este projeto implementa um **sistema de contagem bidirecional de pessoas** para 
 
 **Visão Geral:** Sistema de contagem bidirecional de pessoas para ambientes fechados com portas da frente e dos fundos. Exibição em tempo real em displays de 7 segmentos, LED indicador de ocupação e botão de reset.
 
-**Imagens do protótipo:** ver pasta `prototype/`  
+**Imagens do protótipo:** ver pasta `prototype/` 
+## Prototype Screens
+
+<p align="center">
+  <img src="prototype/5_people_back.jpg" width="250">
+  <img src="prototype/5_people_front.jpg" width="250">
+  <img src="prototype/7_people_entered.jpg" width="250">
+</p>
+
+<p align="center">
+  <img src="prototype/exit_4_back.jpg" width="250">
+  <img src="prototype/exit_6_front.jpg" width="250">
+  <img src="prototype/led_off.jpg" width="250">
+</p>
+
+<p align="center">
+  <img src="prototype/on_hold.jpg" width="250">
+  <img src="prototype/reset.jpg" width="250">
+</p>
+
 **Vídeo de demonstração:** [YouTube Link](https://www.youtube.com/watch?v=mXwFLK2ADg8)  
 **Apresentação do projeto:** `project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx`
 
