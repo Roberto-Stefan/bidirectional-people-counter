@@ -3,9 +3,13 @@
 Este projeto implementa um **sistema de contagem bidirecional de pessoas** para ambientes fechados com duas entradas, utilizando **sensores infravermelhos** e displays de 7 segmentos multiplexados. O sistema detecta entradas e saídas em tempo real e exibe o número de pessoas presentes.
 
 ![Platform](https://img.shields.io/badge/platform-Arduino-blue)
-![Language](https://img.shields.io/badge/language-C++-orange)
-![Status](https://img.shields.io/badge/status-Prototype-yellow)
-![Purpose](https://img.shields.io/badge/purpose-Educational-lightgrey)
+[![Language](https://img.shields.io/badge/language-C++-orange)](https://isocpp.org/)
+[![Status](https://img.shields.io/badge/status-Prototype-yellow)](#status-do-projeto)
+[![Purpose](https://img.shields.io/badge/purpose-Educational-lightgrey)](#possiveis-aplicacoes--possible-applications)
+[![Demo Video](https://img.shields.io/badge/demo-YouTube-red)](https://www.youtube.com/watch?v=mXwFLK2ADg8)
+[![Presentation](https://img.shields.io/badge/presentation-PPTX-blue)](project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx)
+[![Issues](https://img.shields.io/github/issues/seuusuario/seurepo)](https://github.com/seuusuario/seurepo/issues)
+[![Contributors](https://img.shields.io/github/contributors/seuusuario/seurepo)](https://github.com/seuusuario/seurepo/graphs/contributors)
 ---
 
 ## 🇺🇸 English Version
