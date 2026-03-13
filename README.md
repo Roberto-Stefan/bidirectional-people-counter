@@ -3,15 +3,10 @@
 Este projeto implementa um **sistema de contagem bidirecional de pessoas** para ambientes fechados com duas entradas, utilizando **sensores infravermelhos** e displays de 7 segmentos multiplexados. O sistema detecta entradas e saídas em tempo real e exibe o número de pessoas presentes.
 
 [![Platform ESP-32](https://img.shields.io/badge/Platform-ESP32-red?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
-
 [![Platform STM-32](https://img.shields.io/badge/Platform-STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/content/st_com/en.html)
-
 [![Platform Arduino](https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
 [![Language C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-
 [![Platform KiCad](https://img.shields.io/badge/Platform-KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
-
 [![Demo YouTube](https://img.shields.io/badge/DEMO-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mXwFLK2ADg8)
 ---
 
