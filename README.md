@@ -2,14 +2,17 @@
 
 Este projeto implementa um **sistema de contagem bidirecional de pessoas** para ambientes fechados com duas entradas, utilizando **sensores infravermelhos** e displays de 7 segmentos multiplexados. O sistema detecta entradas e saídas em tempo real e exibe o número de pessoas presentes.
 
-[![Platform](https://img.shields.io/badge/platform-Arduino-blue)](https://www.arduino.cc/)
-[![Language](https://img.shields.io/badge/language-C++-orange)](https://isocpp.org/)
-[![Status](https://img.shields.io/badge/status-Prototype-yellow)](#status-do-projeto)
-[![Purpose](https://img.shields.io/badge/purpose-Educational-lightgrey)](#possiveis-aplicacoes--possible-applications)
-[![Demo Video](https://img.shields.io/badge/demo-YouTube-red)](https://www.youtube.com/watch?v=mXwFLK2ADg8)
-[![Presentation](https://img.shields.io/badge/presentation-PPTX-blue)](project_presentation/Sistema_de_Contagem_Bidirecional_de_Pessoas.pptx)
-[![Issues](https://img.shields.io/github/issues/seuusuario/seurepo)](https://github.com/seuusuario/seurepo/issues)
-[![Contributors](https://img.shields.io/github/contributors/seuusuario/seurepo)](https://github.com/seuusuario/seurepo/graphs/contributors)
+[![Platform ESP-32](https://img.shields.io/badge/Platform-ESP32-red?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
+
+[![Platform STM-32](https://img.shields.io/badge/Platform-STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/content/st_com/en.html)
+
+[![Platform Arduino](https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+
+[![Language C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+
+[![Platform KiCad](https://img.shields.io/badge/Platform-KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
+
+[![Demo YouTube](https://img.shields.io/badge/DEMO-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mXwFLK2ADg8)
 ---
 
 ## 🇺🇸 English Version
